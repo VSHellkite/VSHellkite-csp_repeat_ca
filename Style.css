@@ -17,3 +17,9 @@ body{
     font-weight: 600;
   }
 .card{background-color: #557A95;}
+h5{
+    font-weight: 500;
+    color: black;
+}
+.card{margin: 5px;
+padding: 3px;}
