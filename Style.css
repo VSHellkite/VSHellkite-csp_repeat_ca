@@ -23,3 +23,5 @@ h5{
 }
 .card{margin: 5px;
 padding: 3px;}
+h5{ font-weight: bold;}
+p{border: solid black 1px;}
