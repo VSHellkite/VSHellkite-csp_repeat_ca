@@ -1,1 +1,19 @@
-
+body{
+    color: #172b4d;
+}
+.navbar{
+    background-color: #378693;
+}
+.container{
+    border-radius: 3px;
+    background-color: #557A95;;
+  }
+  #main {
+    align-items: start;
+    font-family:'Newsreader', serif;
+  }
+  
+.title {
+    font-weight: 600;
+  }
+.card{background-color: #557A95;}
